@@ -25,7 +25,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 -[Botium Toys: Scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)
 
--[Controls and compliance checklist](https://docs.google.com/document/d/1yxX2kGoCXEGdBsucxjELS614t9vfC_snhgmFFtsZ4fI/edit?tab=t.0)
+-[Controls and compliance checklist](https://docs.google.com/document/d/1yxX2kGoCXEGdBsucxjELS614t9vfC_snhgmFFtsZ4fI/edit?usp=sharing)
 
 
 
