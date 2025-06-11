@@ -29,6 +29,8 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 This section basically explains the control assesment checklist , Compliance checklist, General Data Protection Regulation (GDPR) and System and Organizations Controls (SOC type 1, SOC type 2) Botium Toys currently has in place based on the Supporting Material found in the section above.
 
+Check the control and compliance check list file in this repository for details .
+
 <h2>Recommendations</h2>
 Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including: Least Privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing legacy system management, encryption, and a password management system.
 
