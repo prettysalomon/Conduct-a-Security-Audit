@@ -25,17 +25,9 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 -[Botium Toys: Scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)
 
--[Controls and compliance checklist](https://docs.google.com/document/d/1yxX2kGoCXEGdBsucxjELS614t9vfC_snhgmFFtsZ4fI/edit?usp=sharing)
-
-
-
-
 <h2>Checklist</h2>
 
 This section basically explains the control assesment checklist , Compliance checklist, General Data Protection Regulation (GDPR) and System and Organizations Controls (SOC type 1, SOC type 2) Botium Toys currently has in place based on the Supporting Material found in the section above.
-
-
--[Checklist](https://docs.google.com/document/d/1dn33WrUjm3c4mbB3G8C1Q3_Wr0Td075rL2j7LgxWWd0/edit?tab=t.0)
 
 <h2>Recommendations</h2>
 Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including: Least Privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing legacy system management, encryption, and a password management system.
